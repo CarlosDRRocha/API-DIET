@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+<<<<<<< HEAD
+=======
+
+# Arquivo de variáveis de ambiente
+.env
+>>>>>>> ac4d3a256443fc99a106d29d50220a63037371ed
